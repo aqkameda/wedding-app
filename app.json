@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8fb64a75-c500-4238-ac04-c083ffe710c9"
+      }
+    },
+    "owner": "adamkr",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8fb64a75-c500-4238-ac04-c083ffe710c9"
     }
   }
 }
