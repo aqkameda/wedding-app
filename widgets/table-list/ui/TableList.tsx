@@ -21,6 +21,7 @@ interface TableListProps {
   onToggleCollapse: (tableId: string) => void;
   onAddGuest: (tableId: string, guest: Guest) => void;
   onRemoveTable: (tableId: string) => void;
+  
   onRemoveGuest: (tableId: string, guestId: string) => void;
 }
 
